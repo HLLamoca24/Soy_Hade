@@ -20,3 +20,8 @@ saludar_usuario("Hade")
 def imprimir_mensaje():
     print("¡Estoy aprendiendo funciones en Python!")
 imprimir_mensaje()
+
+def saludo(nombre):
+   print(f"vamos Perú con el jugador {nombre}")
+
+saludo("Lapadula")
